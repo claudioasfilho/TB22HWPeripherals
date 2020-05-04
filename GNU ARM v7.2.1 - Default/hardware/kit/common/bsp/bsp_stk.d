@@ -69,6 +69,7 @@ hardware/kit/common/bsp/bsp_stk.o: ../hardware/kit/common/bsp/bsp_stk.c \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/hal-config-board.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/halconfig/inc/hal-config/hal-config-types.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h
 
@@ -211,6 +212,8 @@ hardware/kit/common/bsp/bsp_stk.o: ../hardware/kit/common/bsp/bsp_stk.c \
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/halconfig/inc/hal-config/hal-config-types.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
 

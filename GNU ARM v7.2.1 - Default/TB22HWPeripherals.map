@@ -634,7 +634,7 @@ Discarded input sections
  .data          0x0000000000000000        0x0 ./hardware/kit/common/bsp/bsp_stk.o
  .bss           0x0000000000000000        0x0 ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_Disable
-                0x0000000000000000        0x4 ./hardware/kit/common/bsp/bsp_stk.o
+                0x0000000000000000        0xc ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_EbiInit
                 0x0000000000000000        0x8 ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_EbiDeInit
@@ -642,23 +642,23 @@ Discarded input sections
  .text.BSP_IOExpGetDeviceId
                 0x0000000000000000        0x4 ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_Init
-                0x0000000000000000        0x4 ./hardware/kit/common/bsp/bsp_stk.o
+                0x0000000000000000       0x14 ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_PeripheralAccess
                 0x0000000000000000        0x8 ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_CurrentGet
-                0x0000000000000000        0xc ./hardware/kit/common/bsp/bsp_stk.o
+                0x0000000000000000       0x38 ./hardware/kit/common/bsp/bsp_stk.o
  .text.BSP_VoltageGet
-                0x0000000000000000        0xc ./hardware/kit/common/bsp/bsp_stk.o
- .debug_info    0x0000000000000000      0xb4f ./hardware/kit/common/bsp/bsp_stk.o
- .debug_abbrev  0x0000000000000000      0x245 ./hardware/kit/common/bsp/bsp_stk.o
- .debug_loc     0x0000000000000000       0x42 ./hardware/kit/common/bsp/bsp_stk.o
+                0x0000000000000000       0x38 ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_info    0x0000000000000000      0xcbc ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_abbrev  0x0000000000000000      0x2b8 ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_loc     0x0000000000000000      0x155 ./hardware/kit/common/bsp/bsp_stk.o
  .debug_aranges
-                0x0000000000000000       0x48 ./hardware/kit/common/bsp/bsp_stk.o
- .debug_ranges  0x0000000000000000       0x38 ./hardware/kit/common/bsp/bsp_stk.o
- .debug_line    0x0000000000000000      0x35b ./hardware/kit/common/bsp/bsp_stk.o
- .debug_str     0x0000000000000000      0x725 ./hardware/kit/common/bsp/bsp_stk.o
+                0x0000000000000000       0x50 ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_ranges  0x0000000000000000       0x40 ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_line    0x0000000000000000      0x3ec ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_str     0x0000000000000000      0x7bc ./hardware/kit/common/bsp/bsp_stk.o
  .comment       0x0000000000000000       0x7f ./hardware/kit/common/bsp/bsp_stk.o
- .debug_frame   0x0000000000000000       0x90 ./hardware/kit/common/bsp/bsp_stk.o
+ .debug_frame   0x0000000000000000       0xb8 ./hardware/kit/common/bsp/bsp_stk.o
  .ARM.attributes
                 0x0000000000000000       0x3c ./hardware/kit/common/bsp/bsp_stk.o
  .text          0x0000000000000000        0x0 ./hardware/kit/common/drivers/i2cspm.o
@@ -10467,7 +10467,7 @@ LOAD /Applications/Simplicity Studio.app/Contents/Eclipse/developer/toolchains/g
  .bss.boot_to_dfu
                 0x0000000020000c5c        0x1 ./app.o
  *fill*         0x0000000020000c5d        0x3 
- .bss.local_time.17046
+ .bss.local_time.17059
                 0x0000000020000c60        0x4 ./app.o
  .bss.bg_gattdb_data_attribute_field_2_data
                 0x0000000020000c64        0x4 ./gatt_db.o

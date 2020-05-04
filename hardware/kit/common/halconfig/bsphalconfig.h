@@ -1,16 +1,21 @@
 #ifndef BSPHALCONFIG_H
 #define BSPHALCONFIG_H
 
+#define THUNDERBOARDBG22
+
 #include "hal-config.h"
+
 
 // HAL config is only supported on STK platform
 #define BSP_STK
 
+#ifndef THUNDERBOARDBG22
 #ifdef BSP_LED_PRESENT
 // HAL Config LED module enabled
 #define BSP_GPIO_LEDS
 #define BSP_NO_OF_LEDS                BSP_LED_COUNT
 #define BSP_GPIO_LEDARRAY_INIT        BSP_LED_INIT
+#endif
 #endif
 
 #ifdef BSP_EXTLED_PRESENT
@@ -20,11 +25,13 @@
 #define BSP_GPIO_EXTLEDARRAY_INIT     BSP_EXTLED_INIT
 #endif
 
+#ifndef THUNDERBOARDBG22
 #ifdef BSP_BUTTON_PRESENT
 // HAL Config Button module enabled
 #define BSP_GPIO_BUTTONS
 #define BSP_NO_OF_BUTTONS             BSP_BUTTON_COUNT
 #define BSP_GPIO_BUTTONARRAY_INIT     BSP_BUTTON_INIT
+#endif
 #endif
 
 #ifdef HAL_IOEXP_ENABLE

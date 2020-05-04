@@ -65,6 +65,7 @@ init_app.o: ../init_app.c \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_bus.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_assert.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
  ../hal-config.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp.h \
@@ -205,6 +206,8 @@ init_app.o: ../init_app.c \
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_assert.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
 

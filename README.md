@@ -44,6 +44,4 @@ Hardware Connections:
 PWM Pin - PC0 - WSTK EXP4 Header
 ADC Pin - PC2 - WSTK EXP8 Header
 Button0 - WSTK PB0
-Button1 - WSTK PB1
 LED0 - WSTK LED0
-LED1 - WSTK LED1

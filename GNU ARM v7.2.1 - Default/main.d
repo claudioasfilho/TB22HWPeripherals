@@ -66,6 +66,9 @@ main.o: ../main.c ../init_mcu.h ../board_features.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_bus.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_assert.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/gecko_configuration.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/bg_gattdb_def.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/bg_types.h \
@@ -80,8 +83,6 @@ main.o: ../main.c ../init_mcu.h ../board_features.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_timer.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_iadc.h \
- /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h \
- /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
  ../app.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/drivers/retargetserial.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/retargetserialhalconfig.h
@@ -228,6 +229,12 @@ main.o: ../main.c ../init_mcu.h ../board_features.h \
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h:
 
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h:
+
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/gecko_configuration.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/bg_gattdb_def.h:
@@ -257,10 +264,6 @@ main.o: ../main.c ../init_mcu.h ../board_features.h \
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_iadc.h:
-
-/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h:
-
-/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
 
 ../app.h:
 

@@ -71,6 +71,9 @@ hardware/kit/common/drivers/retargetserial.o: \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/hal-config-board.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/halconfig/inc/hal-config/hal-config-types.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/Device/SiliconLabs/EFR32BG22/Include/em_device.h:
@@ -214,5 +217,11 @@ hardware/kit/common/drivers/retargetserial.o: \
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/halconfig/inc/hal-config/hal-config-types.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h:

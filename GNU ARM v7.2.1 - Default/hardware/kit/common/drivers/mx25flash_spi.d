@@ -67,6 +67,9 @@ hardware/kit/common/drivers/mx25flash_spi.o: \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_bus.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_assert.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_cmu.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_gpio.h \
@@ -205,6 +208,12 @@ hardware/kit/common/drivers/mx25flash_spi.o: \
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_assert.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_usart.h:
 

@@ -72,6 +72,9 @@ peripherals.o: ../peripherals.c \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/hal-config-board.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/halconfig/inc/hal-config/hal-config-types.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h \
+ /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/bg_types.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/gecko_configuration.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/bg_gattdb_def.h \
@@ -85,9 +88,7 @@ peripherals.o: ../peripherals.c \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/drivers/retargetserial.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/retargetserialhalconfig.h \
  /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emdrv/sleep/inc/sleep.h \
- ../hal-config.h \
- /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h \
- /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h
+ ../hal-config.h
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emlib/inc/em_chip.h:
 
@@ -235,6 +236,12 @@ peripherals.o: ../peripherals.c \
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hal-config-app-common.h:
 
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/EFR32BG22_BRD4184A/config/bspconfig.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:
+
+/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h:
+
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/bg_types.h:
 
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/protocol/bluetooth/ble_stack/inc/common/gecko_configuration.h:
@@ -262,7 +269,3 @@ peripherals.o: ../peripherals.c \
 /Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/platform/emdrv/sleep/inc/sleep.h:
 
 ../hal-config.h:
-
-/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/halconfig/bsphalconfig.h:
-
-/Users/clfilho/SimplicityStudio/March20/TB22HWPeripherals/hardware/kit/common/bsp/bsp_bcp.h:

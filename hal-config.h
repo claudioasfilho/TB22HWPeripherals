@@ -21,10 +21,16 @@
 #include "board_features.h"
 #include "hal-config-board.h"
 #include "hal-config-app-common.h"
+#include "bspconfig.h"
+
 
 #define PWM_PIN                               (0U)
 #define PWM_PORT                              (gpioPortC)
 
+#if 0
+#define HAL_SERIAL_PORT_USART1			BSP_BCC_USART
+#define BSP_SERIAL_APP_PORT				HAL_SERIAL_PORT_USART1
+#endif
 
 #ifndef HAL_VCOM_ENABLE
 #define HAL_VCOM_ENABLE                   (1)
